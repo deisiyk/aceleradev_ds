@@ -1,2 +1,4 @@
-# aceleradev_ds
-Aceleração Data Science da Codenation
+# CODENATION.DEV
+
+Site com programas de aceleração gratuitos para devs e cientistas de dados.
+
