@@ -2,3 +2,6 @@ venv/
 codenation.exe
 *.zip
 semana2/
+.ipynb_checkpoints/
+.pytest_cache/
+__pycache__/
