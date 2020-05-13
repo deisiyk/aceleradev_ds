@@ -1,0 +1,24 @@
+============================= test session starts =============================
+platform win32 -- Python 3.7.4, pytest-5.2.1, py-1.8.0, pluggy-0.13.0 -- C:\Users\yukik\Anaconda3\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\yukik\Codenation\data-science-3
+plugins: arraydiff-0.3, doctestplus-0.4.0, openfiles-0.4.0, remotedata-0.3.2
+collecting ... collected 4 items
+
+test_submit.py::test_q1 PASSED                                           [ 25%]
+test_submit.py::test_q2 PASSED                                           [ 50%]
+test_submit.py::test_q3 PASSED                                           [ 75%]
+test_submit.py::test_q4 PASSED                                           [100%]
+
+============================== warnings summary ===============================
+C:\Users\yukik\Anaconda3\lib\site-packages\patsy\constraint.py:13
+  C:\Users\yukik\Anaconda3\lib\site-packages\patsy\constraint.py:13: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated, and in 3.8 it will stop working
+    from collections import Mapping
+
+C:\Users\yukik\Anaconda3\lib\site-packages\win32\lib\pywintypes.py:2
+  C:\Users\yukik\Anaconda3\lib\site-packages\win32\lib\pywintypes.py:2: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+    import imp, sys, os
+
+-- Docs: https://docs.pytest.org/en/latest/warnings.html
+--- generated xml file: C:\Users\yukik\Codenation\data-science-3\output.xml ---
+======================= 4 passed, 2 warnings in 23.73s ========================
